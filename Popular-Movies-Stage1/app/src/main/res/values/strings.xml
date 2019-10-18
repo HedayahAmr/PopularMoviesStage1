@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="tv_connection_error">Failed to get results. Please try again. </string>
+
+    <string name="Movie_name">LOGAN</string>
+    <string name="detail_rate">10.0</string>
+    <string name="release_date">2017</string>
+    <string name="Overview">In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan attempts to hide from the world
+        and his legacy are upended when a young mutant arrives, pursued by dark forces</string>
+
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+
+    <string name="label_rate">Rate: </string>
+    <string name="label_release_date">Release Date: </string>
+    <string name="label_overview">Overview: </string>
+</resources>
